@@ -10,9 +10,21 @@
   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N3.jpeg)
     
   ## Amazon Elastic Kubernetes Service
-    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N4.jpeg)
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N4.jpeg)
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N8.jpeg)
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N9.jpeg)
   ## Docker Image
-    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N11.jpeg)
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N11.jpeg)
+  ## Promethues
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N5.jpeg)
+ ## Grafana
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N6.jpeg) 
+   ## Jenkins
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N7.jpeg)
+
+   ## SonarQube
+   ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N10.jpeg)
+
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
