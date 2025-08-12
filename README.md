@@ -1,22 +1,18 @@
-<div align="center">
-  <img src="[./public/assets/DevSecOps.png](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N1.png)" alt="Logo" width="100%" height="100%">
-
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
-
-
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+   ## Architecture
 
+     ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N1.png)
+  
+  ## Deployed 
+    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N2.jpeg)
+   
+  ## ArgoCD
+    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N3.jpeg)
+    
+  ## Amazon Elastic Kubernetes Service
+    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N4.jpeg)
+  ## Docker Image
+    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N11.jpeg)
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
