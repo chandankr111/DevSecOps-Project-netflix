@@ -1,13 +1,13 @@
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
    ## Architecture
 
-     ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N1.png)
+ ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N1.png)
   
   ## Deployed 
-    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N2.jpeg)
+  ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N2.jpeg)
    
   ## ArgoCD
-    ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N3.jpeg)
+  ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N3.jpeg)
     
   ## Amazon Elastic Kubernetes Service
     ![alt text](https://github.com/chandankr111/DevSecOps-Project-netflix/blob/main/public/assets/N4.jpeg)
